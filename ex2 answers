@@ -1,0 +1,5 @@
+1. When the number of hidden nodes in a neural network increases, the capacity of the network also increases. This means the network gains more parameters allowing it to model more complex patterns and decision boundaries. Initially, this can significantly improve the network’s performance because it can capture details in the data that a smaller network cannot.
+
+2.  Accuracy is low due to underfitting in low hiddens nodes
+    In moderate ndoes accuracy improves sharply as the model reaches the capacity needed to learn the data’s patterns effectively.
+    In high hidden nodes accuracy stagnates or slightly decreases. This is likely due to overfitting and possibly optimization challenges.
